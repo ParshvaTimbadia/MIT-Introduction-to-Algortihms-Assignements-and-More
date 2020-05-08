@@ -1,3 +1,7 @@
+// Time complexity of this program O(Log N)
+
+
+
 public class MyClass {
    static int findPeakUtil(int arr[], int low, int high, int n) 
     { 
